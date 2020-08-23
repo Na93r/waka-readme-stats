@@ -1,40 +1,4 @@
-> Looking For Translation to different languages & Locale  [#23](https://github.com/anmol098/waka-readme-stats/issues/23)
 
-# Dev Metrics in Readme with added feature flags 🎌
-
-![Project Preview](https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png)
-
-<p align="center">
-  
-  ![Project Preview](https://user-images.githubusercontent.com/15426564/88030180-8e1c4780-cb58-11ea-8a8b-b3576dd73652.png)
-  
-  <h3 align="center">📌✨Awesome Readme Stats</h3>
-</p>
-
-----
-
-<p align="center">
-   <img src="https://img.shields.io/badge/language-python-blue?style"/>
-   <img src="https://img.shields.io/github/license/anmol098/waka-readme-stats"/>
-   <img src="https://img.shields.io/github/stars/anmol098/waka-readme-stats"/>
-   <img src="https://img.shields.io/github/forks/anmol098/waka-readme-stats"/>
-   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-</p>
-<p align="center">
-   Are you an early 🐤 or a night 🦉?
-   <br/>
-   When are you most productive during the day?
-   <br/>
-   What are languages you code in?
-   <br/>
-   Let's check out in your profile readme!
-</p>
-
-<p align="center">
-    <a href="https://github.com/anmol098/waka-readme-stats/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/anmol098/waka-readme-stats/issues">Request Feature</a>
-  </p>
 
 ## Prep Work
 
